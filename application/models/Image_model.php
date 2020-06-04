@@ -155,7 +155,7 @@ class Image_model extends CI_Model{
         $config = array(
             'upload_path'       => $realpath.$folder,
             'allowed_types'     => $allowed_types,
-            'max_size'          => "2048000",// Can be set to particular file size , here it is 2 MB(2048 Kb)
+            'max_size'          => "204800000",// Can be set to particular file size , here it is 2 MB(2048 Kb)
             'encrypt_name'      => TRUE,
             'overwrite'         => false,
             'remove_spaces'     => TRUE,

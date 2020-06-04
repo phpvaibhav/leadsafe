@@ -20,7 +20,7 @@
                   <input type="password" id="password" name="password">
                   <b class="tooltip tooltip-top-right"><i class="fa fa-lock txt-color-teal"></i> Please enter your password</b> </label>
                   <div class="note">
-                    <a href="<?php echo base_url().'admin/forgot' ?>">Forgot password?</a>
+                <!--     <a href="<?php echo base_url().'admin/forgot' ?>">Forgot password?</a> -->
                   </div>
               </section>
               <section>
