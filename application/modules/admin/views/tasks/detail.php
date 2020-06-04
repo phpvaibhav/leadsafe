@@ -46,7 +46,7 @@
 							<div class="row">
 								<div class="col-sm-12 col-md-12 col-lg-12 padding-left-1">
 									<legend>
-									Steps To Complete Tasks <a href="javascript:void(0);" class="btn btn-labeled btn-info  pull-right" onclick="openActionOption(this);" id="layerOpt" data-id="show" > <span class="btn-label"><i class="glyphicon glyphicon-plus"></i></span> Step </a>
+									Steps To Complete Tasks <a href="javascript:void(0);" class="btn btn-labeled btn-info  pull-right" onclick="openActionOption(this);" id="layerOpt" data-id="show" > <span class="btn-label"><i class="glyphicon glyphicon-plus"></i></span> Add Steps </a>
 									</legend>								
 								</div>
 
